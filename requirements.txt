@@ -1,0 +1,5 @@
+telethon==1.30.0
+pdfplumber==0.7.6
+pandas==2.0.3
+rarfile==4.0
+tqdm==4.66.1
